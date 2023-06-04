@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+pandas
+psycopg2-binary
+scikit-learn==1.0.2
+Gunicorn
